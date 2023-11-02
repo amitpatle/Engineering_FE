@@ -18,7 +18,7 @@ def divide(num1, num2):
 
 def calculator():
     print("Select operation you want to perform:")
-    print("1. Addition\n2. Subtraction\n3. Multiplication\n4. Division")
+    print("1. Addition\n 2. Subtraction\n 3. Multiplication\n 4. Division")
 
     choice = input("Enter choice (1/2/3/4): ")
     print("You have selected:", choice)
